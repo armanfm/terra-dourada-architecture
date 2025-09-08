@@ -156,18 +156,3 @@ Sequential and monolithic models impose **high computational redundancy**, **ene
 6. Integration with **decentralized identity (DIDs)**  
 7. Research on proofs for **private data**
 
----
-
-## **9. References**
-
-- Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System.  
-- Buterin, V. (2013). Ethereum Whitepaper.  
-- Celestia Protocol: Data Availability for Modular Blockchains.  
-- Benet, J. (2014). IPFS – Content Addressed, Versioned, P2P File System.  
-- Williams, S. (2023). Arweave: A Permanent Storage Protocol.  
-- IBC Protocol (2021). Inter-Blockchain Communication Protocol.  
-- Witnet Foundation (2020). Witnet Whitepaper: A Decentralized Oracle Network Protocol.  
-- Polygon Technology (2023). zkEVM Architecture: Composition, Recursion and Aggregation.  
-- NIST (2022). Post-Quantum Cryptography Standardization (Dilithium Algorithm).  
-- Microsoft Research (2021). Nova: Recursive Zero-Knowledge Proofs.  
-- Trudeau, M. et al. (2024). Energy Efficiency in Modular Blockchain Architectures. Journal of Cryptoeconomic Systems.
